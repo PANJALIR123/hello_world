@@ -1,2 +1,6 @@
 # hello_world
-Just another repository
+Just another repositor
+Anjali Radhakrishnan
+nk college
+Practical on github
+bye
